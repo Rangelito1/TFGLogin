@@ -1,0 +1,6 @@
+name: TFGLogin
+main: rangelito.tfglogin.TFGLogin
+version: 1.0
+commands:
+  PageLogin:
+    description: Comando para establecer una contraseña.
